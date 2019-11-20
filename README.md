@@ -1,9 +1,15 @@
-# first_app
+# Quizz App
 
 A Flutter project to learn basics of Dart and Flutter.
 The goal of the app is to create a quizz with a score.
 
 The app is really ugly but functional i ll try to improve that on this on my next application
+
+## Install
+Wanna try the app ?
+See the [releases](https://github.com/BLKKKBVSIK/FlutterTraining-QuizzApp/releases) 
+
+The release is Android only since i don't own an Apple Developer account.
 
 ## Demo 
 
